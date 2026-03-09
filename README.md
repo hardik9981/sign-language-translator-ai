@@ -103,6 +103,11 @@ python predict_webcam.py
 
 A webcam window will open and the model will start detecting hand gestures.
 
+
+# 📸 Demo
+
+Below are some example predictions from the system.
+
 ![Demo1](images/demo1.png)
 ![Demo2](images/demo2.png)
 ![Demo3](images/demo3.png)
@@ -111,11 +116,6 @@ A webcam window will open and the model will start detecting hand gestures.
 ![Demo6](images/demo6.png)
 ![Demo7](images/demo7.png)
 
-# 📸 Demo
-
-Below are some example predictions from the system.
-
----
 
 # 📊 Model Training
 
